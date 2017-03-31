@@ -18,3 +18,5 @@ git checkout action-cable-reference
 ```
 
 When following the tutorial, you should be able to resolve any discrepancies by comparing with this reference app.
+
+//
